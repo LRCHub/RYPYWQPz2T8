@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ゴーストダイブ",
+  "base_artist": "Polkadot Stingray",
+  "createdAt": "2025-12-26T02:07:52.547571Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ghost Dive [ゴーストダイブ]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/01_Ghost_Dive_[ゴーストダイブ]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴーストダイブ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_ゴーストダイブ_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
